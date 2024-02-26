@@ -1,14 +1,9 @@
 Readme . md github
 
-<h1 align="center">Hi 👋,Welcome to Aadil.dev</h1>
-<p align="justify">Welcome to our dynamic freelancing team specializing in Freelancing, Web & App Development, and UI/UX Design. With a passion for innovation and a keen eye for detail, we collaborate seamlessly to bring your digital visions to life. Our diverse group of skilled professionals combines cutting-edge technology with creative flair, crafting stunning user experiences that captivate and engage. Whether you're in need of a sleek and functional website, a user-friendly app, or an aesthetic UI/UX design overhaul, we're here to transform your ideas into reality. Join us on this exciting journey as we fuse expertise, creativity, and dedication to deliver exceptional results that exceed expectations.</p>
+<h1 align="center">Hi 👋, Welcome to My GitHub profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aadil7874&label=Profile%20views&color=0e75b6&style=flat" alt="Aadil.dev" /> </p>
 
-<!--- 👨‍💻 Our all social links [https://devalphaspace-socials.vercel.app/](https://devalphaspace-socials.vercel.app/) --->
-- 👨‍💻 Our all social links [https://google.com](https://google.com/)
-
-<!--- 📫 How to reach us **work.devalphaspace@gmail.com** --->
 📫 How to reach us **socialaadil470@gmail.com**
 <h3 align="left">Connect with us:</h3>
 <p align="left">
