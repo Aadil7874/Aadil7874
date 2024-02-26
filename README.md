@@ -8,7 +8,7 @@ Readme . md github
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="#" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/fighter_276" target="blank"><img align="center" src="#" alt="#" height="30" width="40" /></a>
+<a href="https://instagram.com/fighter_276" target="_blank"><img align="center" src="#" alt="#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
